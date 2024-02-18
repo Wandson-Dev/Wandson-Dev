@@ -1,6 +1,6 @@
 # Meu Perfil
 
-Olá, meu nome é Wandson e tenho 16 anos. Este perfil foi criado por mim com o intuito de compartilhar projetos baseados em hacking para te ajudar a desenvolver da melhor forma.
+Olá, meu nome é Wandson e tenho 16 anos. Este perfil foi criado por mim com o intuito de compartilhar pequenos projetos.
 
 ## Meus Projetos
 
